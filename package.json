@@ -3,6 +3,9 @@
   "description:" "An Open Source Twitter Clone.",
   "version": "0.0.1a",
   "author": "Sebasorova",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/SebastianSoftware/Rwitter/rwitter.git"
