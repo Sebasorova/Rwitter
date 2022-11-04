@@ -1,0 +1,16 @@
+{
+  "name": "Rwitter",
+  "description:" "An Open Source Twitter Clone.",
+  "version": "0.0.1a",
+  "author": "Sebasorova",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SebastianSoftware/Rwitter/rwitter.git"
+  },
+  "keywords": ["twitter", "alternative", "clone", "open-source"],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianSoftware/Rwitter/issues/"
+  },
+  "homepage": "https://github.com/SebastianSoftware/Rwitter"
+}
