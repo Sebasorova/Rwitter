@@ -4,7 +4,7 @@ An Open Source Twitter Clone
 ## Technologies we're planning to use:
 
 - Javascript (NODEJS)
-- Vue
+- Vue/React
 - HTML
 - CSS
 - MySQL
