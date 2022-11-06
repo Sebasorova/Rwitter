@@ -14,5 +14,5 @@ An Open Source Twitter Clone
 
 - [X] Create Package.json
 - [X] Create Package-lock.json
-- [ ] Create Index.js
+- [X] Create Index.js
 - [ ] Create Initial Database Scheme in index.js
