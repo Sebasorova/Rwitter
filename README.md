@@ -13,6 +13,6 @@ An Open Source Twitter Clone
 ## To Do (Will do one per day):
 
 - [X] Create Package.json
-- [ ] Create Package-lock.json
+- [X] Create Package-lock.json
 - [ ] Create Index.js
 - [ ] Create Initial Database Scheme in index.js
